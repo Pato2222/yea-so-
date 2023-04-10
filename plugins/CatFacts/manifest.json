@@ -1,10 +1,10 @@
 {
     "name": "CatFacts",
-    "description": "Sends a random cat fact.",
+    "description": "Sends a random dog fact.",
     "authors": [
         {
-            "name": "jdev082",
-            "id": "1038089405161807872"
+            "name": "sumi<3",
+            "id": "688986503388594206"
         }
     ],
     "main": "src/main.js",
