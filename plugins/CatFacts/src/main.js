@@ -12,10 +12,10 @@ const fact = async function () {
 
 export const onLoad = () => {
     factCommand = registerCommand({
-        name: "catfact",
-        displayName: "catfact",
-        description: "Sends a random cat fact.",
-        displayDescription: "Sends a random cat fact.",
+        name: "dogfact",
+        displayName: "dogfact",
+        description: "Sends a random dog? fact.",
+        displayDescription: "Sends a random dog? fact.",
         applicationId: -1,
         inputType: 1,
         type: 1,
